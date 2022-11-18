@@ -1,1 +1,1 @@
-# SSNE_mini_proj_3
+# ssne-miniproj3
